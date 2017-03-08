@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Yashiro/Scene/ma.unity
+- path: Assets/Togaru/Scene/togaru.unity
   isLoaded: 1
   isActive: 1
